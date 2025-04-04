@@ -31,3 +31,14 @@ Partner: [Imec](https://www.imec.be)
 ![image](https://github.com/user-attachments/assets/0effe2ee-5ce9-47e3-bed6-90bb631b271f)
 
 ![image](https://github.com/user-attachments/assets/63f847b5-2b7a-465b-a459-b642ccfbdcf9)
+
+
+## Funding information
+
+ELASTIC project has received funding from the Smart Networks and Services Joint Undertaking (SNS JU) under the European Union’s Horizon Europe research and innovation programme under Grant Agreement No 101139067. Views and opinions expressed are however those of the authors only and do not necessarily reflect those of the European Union. Neither the European Union nor the granting authority can be held responsible for them.
+
+<img src="https://github.com/user-attachments/assets/e0a71423-65a3-421a-91a2-0b13cfb8b11f" height="50">
+
+<img src="https://github.com/user-attachments/assets/c1b19cf1-c936-433e-a354-919a08801476" height="50">
+
+<img src="https://github.com/user-attachments/assets/b110aa75-4438-4388-a6a0-8d4b0d76e421" height="25">
