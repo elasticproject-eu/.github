@@ -41,4 +41,4 @@ ELASTIC project has received funding from the Smart Networks and Services Joint 
 
 <img src="https://github.com/user-attachments/assets/c1b19cf1-c936-433e-a354-919a08801476" height="50">
 
-<img src="https://github.com/user-attachments/assets/b110aa75-4438-4388-a6a0-8d4b0d76e421" height="25">
+<img src="https://github.com/user-attachments/assets/b110aa75-4438-4388-a6a0-8d4b0d76e421" height="50">
