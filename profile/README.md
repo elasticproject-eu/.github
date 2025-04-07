@@ -26,12 +26,26 @@ Partner: [Imec](https://www.imec.be)
 
 ## Partners
 
-![image](https://github.com/user-attachments/assets/a0ab65c5-48ca-4be6-bad3-6666603c93b7)
+<p align="justify">
+  <img src="https://github.com/elasticproject-eu/.github/blob/0daa5e9f24a26aeb7e7511b2d867d8ba339ab784/profile/partners_logo/TUC_logo_text.png" height="80">&nbsp;&nbsp;&nbsp;
+  <img src="https://github.com/elasticproject-eu/.github/blob/0daa5e9f24a26aeb7e7511b2d867d8ba339ab784/profile/partners_logo/Ericsson_vertical_RGB.png" height="80">&nbsp;&nbsp;&nbsp;
+  <img src="https://github.com/elasticproject-eu/.github/blob/0daa5e9f24a26aeb7e7511b2d867d8ba339ab784/profile/partners_logo/TIDlogo.png" height="80">&nbsp;&nbsp;&nbsp;
+  <img src="https://github.com/elasticproject-eu/.github/blob/0daa5e9f24a26aeb7e7511b2d867d8ba339ab784/profile/partners_logo/Thales_LOGO_RGB.jpg" height="80">
+</p>
 
-![image](https://github.com/user-attachments/assets/0effe2ee-5ce9-47e3-bed6-90bb631b271f)
+<p align="justify">
+  <img src="https://github.com/elasticproject-eu/.github/blob/0daa5e9f24a26aeb7e7511b2d867d8ba339ab784/profile/partners_logo/Imec_ColourPositive.png" height="30">&nbsp;&nbsp;&nbsp;
+  <img src="https://github.com/elasticproject-eu/.github/blob/0daa5e9f24a26aeb7e7511b2d867d8ba339ab784/profile/partners_logo/UltraViolet_logo.svg" height="30">&nbsp;&nbsp;&nbsp;
+  <img src="https://github.com/elasticproject-eu/.github/blob/0daa5e9f24a26aeb7e7511b2d867d8ba339ab784/profile/partners_logo/aalto-logo-86627-1.png" height="80">&nbsp;&nbsp;&nbsp;
+  <img src="https://github.com/elasticproject-eu/.github/blob/0daa5e9f24a26aeb7e7511b2d867d8ba339ab784/profile/partners_logo/LundUniversity_C2line_RGB.png" height="80">
+</p>
 
-![image](https://github.com/user-attachments/assets/63f847b5-2b7a-465b-a459-b642ccfbdcf9)
-<img src="https://github.com/elasticproject-eu/.github/blob/a89b388ed5e4f654ee25acac19dbcf7ec2836fb0/profile/partners_logo/AMA.png" height="50">
+<p align="justify">
+  <img src="https://github.com/elasticproject-eu/.github/blob/a89b388ed5e4f654ee25acac19dbcf7ec2836fb0/profile/partners_logo/AMA.png" height="100">
+  <img src="https://github.com/elasticproject-eu/.github/blob/0daa5e9f24a26aeb7e7511b2d867d8ba339ab784/profile/partners_logo/ZentrixLab_logo.png" height="80">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <!-- Added extra space here -->
+  <img src="https://github.com/elasticproject-eu/.github/blob/0daa5e9f24a26aeb7e7511b2d867d8ba339ab784/profile/partners_logo/Polito_Logo_2021_BLU.png" height="80">
+</p>
+
 
 
 ## Funding information
