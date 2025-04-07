@@ -31,6 +31,7 @@ Partner: [Imec](https://www.imec.be)
 ![image](https://github.com/user-attachments/assets/0effe2ee-5ce9-47e3-bed6-90bb631b271f)
 
 ![image](https://github.com/user-attachments/assets/63f847b5-2b7a-465b-a459-b642ccfbdcf9)
+<img src="https://github.com/elasticproject-eu/.github/blob/a89b388ed5e4f654ee25acac19dbcf7ec2836fb0/profile/partners_logo/AMA.png" height="50">
 
 
 ## Funding information
