@@ -24,6 +24,27 @@ Partner: [Imec](https://www.imec.be)
 
 ---
 
+### Propeller Orchestrator
+
+Propeller is a lightweight orchestration platform developed by Abstract Machines in the context of the ELASTIC project. It enables secure, event-driven deployment and execution of WebAssembly (Wasm) workloads across heterogeneous cloud, edge, and IoT environments — including microcontrollers running RTOS.
+
+Key features include:
+
+* Fast, low-overhead orchestration of serverless (FaaS) workloads
+* Support for resource-constrained devices (e.g. ESP32, Zephyr RTOS)
+* Secure multi-protocol messaging via the built-in SuperMQ
+* OCI-compliant Wasm artefact handling
+* No dependency on Kubernetes or heavyweight control planes
+
+Propeller is used in both ELASTIC Demonstrator 1 (6G IoT data fabric services) and Demonstrator 2 (secure workload migration across trust boundaries).
+
+* Repository: https://github.com/absmach/propeller
+* Documentation: https://docs.propeller.abstractmachines.fr/
+
+Partner: [AMA](https://www.abstractmachines.fr)
+
+---
+
 ## Partners
 
 <p align="center">
