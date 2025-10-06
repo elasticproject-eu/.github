@@ -18,7 +18,12 @@ A standardized set of interfaces to connect WebAssembly applications to hardware
   * Proposal: https://github.com/WebAssembly/wasi-usb
   * Implementation:
     * https://github.com/idlab-discover/usb-wasm
-    * https://github.com/Wouter01/USB_WASI
+* GPIO WASI proposal: Phase 1
+  * Proposal: https://github.com/WebAssembly/wasi-gpio
+  * Implementation:
+    * https://github.com/idlab-discover/masters-jarno-vanruymbeke
+* SPI WASI proposal: Phase 1
+  * Proposal: https://github.com/idlab-discover/masters-jarno-vanruymbeke/tree/main/SPI/wit
 
 Partner: [Imec](https://www.imec.be)
 
@@ -41,7 +46,17 @@ Propeller is used in both ELASTIC Demonstrator 1 (6G IoT data fabric services) a
 * Repository: https://github.com/absmach/propeller
 * Documentation: https://docs.propeller.abstractmachines.fr/
 
-Partner: [AMA](https://www.abstractmachines.fr)
+Partner: [Abstract Machines](https://www.abstractmachines.fr)
+
+---
+
+### Wasm Operator
+
+Wasm Operator is a platform to run Kubernetes Operators as Wasm components that only wake up when there are changes to be processed. This reduces their memory footprint and enhances efficiency for edge orchestration.
+
+* Repository: https://github.com/idlab-discover/wasm-operator
+
+Partner: [Imec](https://www.imec.be)
 
 ---
 
