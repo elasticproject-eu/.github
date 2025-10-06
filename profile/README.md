@@ -65,7 +65,7 @@ Partner: [Imec](https://www.imec.be)
 TEE Hardware Abstraction Layer providing a portable, secure foundation for executing trusted workloads across heterogeneous platforms.
 TEEHAL enables unified management and interoperability of Trusted Execution Environments (TEEs) such as AMD SEV and Intel TDX, supporting confidential computing scenarios validated within ELASTIC.
 
-* Repository: https://github.com/eit-sns/teehal
+* Repository: https://github.com/elasticproject-eu/wasmhal/
 
 Partner: [LUND University](https://www.lunduniversity.lu.se)
 
