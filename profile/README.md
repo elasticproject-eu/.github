@@ -79,6 +79,16 @@ NETTO is an eBPF-powered network monitoring tool for Linux that focuses on measu
 Partner: [Politecnico di Torino](https://www.polito.it/)
 
 ---
+### Pretty Verifier – Static eBPF Code Security Analyzer
+
+Pretty Verifier is a static analysis tool for eBPF C code, developed to detect and explain security issues that would cause verifier rejections in the Linux kernel. It provides early error reporting, clear diagnostic messages, and fix suggestions, based on combined analysis of the C source, compiled object code, and verifier logs.
+Developed within the ELASTIC project (Task 1.3), the tool helps developers write eBPF programs that comply with verifier constraints and security requirements.
+
+* Repository: https://github.com/netgroup-polito/pretty-verifier
+
+Partner: [Politecnico di Torino](https://www.polito.it/)
+
+---
 
 ## Partners
 
