@@ -70,6 +70,15 @@ TEEHAL enables unified management and interoperability of Trusted Execution Envi
 Partner: [LUND University](https://www.lunduniversity.lu.se)
 
 ---
+### NETTO
+
+NETTO is an eBPF-powered network monitoring tool for Linux that focuses on measuring the CPU utilization of the key kernel tasks responsible for running the network stack. Thanks to a lightweight profiling-centric design, NETTO can provide a detailed breakdown of the low-level kernel runtime operations with minimal and configurable system overhead. NETTO is an essential tool for system administrators that wish to understand their servers’ CPU time allocation, and optimize the networking configuration around it.
+
+* Repository: https://github.com/miolad/netto
+
+Partner: [Politecnico di Torino]([https://www.polito.it/)
+
+---
 
 ## Partners
 
