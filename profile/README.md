@@ -76,7 +76,7 @@ NETTO is an eBPF-powered network monitoring tool for Linux that focuses on measu
 
 * Repository: https://github.com/miolad/netto
 
-Partner: [Politecnico di Torino]([https://www.polito.it/)
+Partner: [Politecnico di Torino](https://www.polito.it/)
 
 ---
 
