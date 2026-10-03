@@ -1,8 +1,4 @@
-# ELASTIC: Efficient, portabLe And Secure orchesTration for reliable servICes
-
-![image](https://github.com/user-attachments/assets/9f084806-571c-46c9-9dbf-b9b9cb05b20c)
-
-<p align="center"><b>Secure, Trustworthy and Adaptive Edge-to-Cloud Infrastructures for 6G</b><br><i>Enabling trustworthy distributed intelligence for future 6G ecosystems</i></p>
+<p align="center"><img src="https://raw.githubusercontent.com/elasticproject-eu/.github/main/profile/banner_elastic.png" width="100%" alt="ELASTIC: Efficient, portabLe And Secure orchesTration for reliable servICes. Revolutionizing connectivity with smart security"></p>
 
 <p align="center"><a href="https://elasticproject.eu/">Website</a> · <a href="#technology-components">Technology components</a> · <a href="#demonstrators">Demonstrators</a> · <a href="https://cordis.europa.eu/project/id/101139067">CORDIS</a></p>
 
