@@ -89,6 +89,78 @@ Developed within the ELASTIC project (Task 1.3), the tool helps developers write
 Partner: [Politecnico di Torino](https://www.polito.it/)
 
 ---
+### WASI Security
+
+WASI Security defines a portable policy mechanism for enforcing fine-grained permissions on WebAssembly workloads across runtimes and orchestration environments. It provides standardised WASI security policies, fine-grained workload permissions, and secure device and file access.
+
+* Repository: https://github.com/idlab-discover/masters-wasi-security/tree/blocking_rules_policy_file
+
+Partner: [Imec](https://www.imec.be)
+
+---
+### HAL Enforcement Service – Automatic MAC Profiles for Wasm Runtime Containers
+
+The HAL Enforcement Service provides policy-based access control for the ELASTIC TEE HAL (TEEHAL). It acts as a standalone gateway that grants WebAssembly workloads restricted access to WasmHAL components, based on YAML policies loaded from a central authority. Together with automatic generation of Mandatory Access Control (MAC) profiles, it enforces least privilege and reduces the attack surface of Wasm workloads.
+
+* Repository: https://github.com/syafiq/enforcement-service
+
+Partner: [LUND University](https://www.lunduniversity.lu.se)
+
+---
+### CornDog – Reliable Enclave Migration Protocols
+
+CornDog enables reliable migration of sensitive resources between Trusted Execution Environments (TEEs), so that protected workloads can move securely without data loss or duplication. It is based on a fair-exchange protocol: either both the source and the destination end up with a cryptographic proof that the migration happened, or neither does.
+
+* Atomic migration: no doubt as to who is responsible for a migrated resource
+* Accountability: operators can prove that the other node received the same result
+* Performance: optimistic protocol, with no external coordination unless a problem occurs
+* Fault tolerance: the coordination infrastructure can be replicated
+
+* Repository: https://github.com/elasticproject-eu/corndog
+
+Partner: [Aalto University](https://www.aalto.fi/en)
+
+---
+### wacky – WASI Flexibly-defined Capabilities
+
+wacky makes it easy to add custom logic, such as access control, observability or compatibility layers, to existing WebAssembly component applications. It injects "shims" between components by automatically transforming WAC composition scripts. The shims are isolated from other code by the WebAssembly sandbox, and their scaffolds can be generated automatically.
+
+* Repository: https://github.com/elasticproject-eu/wacky
+
+Partner: [Aalto University](https://www.aalto.fi/en)
+
+---
+### TCPless – Accelerated Microservices Interconnection
+
+TCPless accelerates TCP communication within and between cluster nodes, improving throughput and reducing latency for microservice-based, cloud-native infrastructures. It extends the Linux TCP subsystem with an eBPF-controlled network bypass for TCP-based inter-process communication, and uses eBPF and RDMA network optimisations.
+
+* Repository: https://github.com/miolad/linux-tcpless
+
+Partner: [Politecnico di Torino](https://www.polito.it/)
+
+---
+### eBPF Distributed State Synchronisation
+
+This tool extends eBPF maps across networked hosts, so that distributed eBPF probes can share state with very low latency. It automatically synchronises replicas of eBPF hash maps over a standard TCP/IP network, without kernel modifications.
+
+* Sub-100 µs target delay on data-centre networks
+* Eventual-consistency data replication
+* Horizontal scalability
+
+* Repository: https://github.com/miolad/ebpf-distributed-htab
+
+Partner: [Politecnico di Torino](https://www.polito.it/)
+
+---
+### Mobility Attack Robust IoT Resource Allocation Model
+
+This component uses AutoML to provide robust mobility prediction under mobility-attack conditions, supporting secure network analytics and resource planning in future 6G networks. It is NWDAF-compatible and includes an open simulation framework and research-ready mobility datasets.
+
+* Repository: https://github.com/nwdaf-research/dataset-attack
+
+Partner: [LUND University](https://www.lunduniversity.lu.se)
+
+---
 
 ## Partners
 
